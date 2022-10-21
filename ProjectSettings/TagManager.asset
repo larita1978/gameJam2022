@@ -54,3 +54,6 @@ TagManager:
   - name: personagem
     uniqueID: 420526495
     locked: 0
+  - name: inimigo
+    uniqueID: 4122431501
+    locked: 0
